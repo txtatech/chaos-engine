@@ -1,6 +1,6 @@
 # Chaos Engine
 
-The Chaos Engine is a Python script that generates a chaotic 3D rendering using various chaotic systems. It produces mesmerizing visualizations, generates random numbers, and provides insights into the behavior of complex systems.
+The Chaos Engine is a Python script that generates a chaotic 3D rendering using various chaotic systems. It produces visualizations, generates random numbers, and provides insights into the behavior of complex systems.
 
 ## Features
 
