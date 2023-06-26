@@ -42,9 +42,9 @@ Run the script with the desired options:
 To run with visualization:
 
 ```bash
-python script.py
+python chaos-engine.py
 
 To run in headless mode (without visualization):
 
 ```bash
-python script.py --headless
+python chaos-engine.py --headless
