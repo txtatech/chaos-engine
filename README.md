@@ -22,7 +22,7 @@ The Chaos Engine is a Python script that generates a chaotic 3D rendering using 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chaos-engine.git
+git clone https://github.com/txtatech/chaos-engine.git
 
 ### Install Dependencies
 
